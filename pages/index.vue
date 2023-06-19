@@ -1,12 +1,11 @@
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <Head>
     <Meta charset="UTF-8" />
     <Meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <Link rel="shortcut icon" href="/favicon.ico" />
-    <Title>Vuejs Kenya Community</Title>
+    <Title>Vuejs Kenya</Title>
     <Meta
       name="description"
       content="Vuejs Kenya is an inclusive and progressive community for all developers"
